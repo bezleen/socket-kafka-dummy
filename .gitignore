@@ -1,0 +1,8 @@
+
+.venv
+__pycache__
+*.db
+*.log
+supervisord.pid
+# *.csv
+/log
