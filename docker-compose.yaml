@@ -2,7 +2,7 @@ version: "3"
 
 services:
   app:
-    container_name: bigdata-mmk-rt
+    container_name: socket-dummy
     build: .
     restart: on-failure
     volumes:
